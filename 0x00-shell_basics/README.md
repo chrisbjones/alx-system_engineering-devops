@@ -1,1 +1,1 @@
-pwd
+making a file executable
